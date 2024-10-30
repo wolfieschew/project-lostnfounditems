@@ -1,3 +1,3 @@
-# Project Layanan Lost and Found Items untuk Mahasiswa/Mahasiswi Telkom University
+# Project Layanan Lost and Found Items
 
 WIP !!!
